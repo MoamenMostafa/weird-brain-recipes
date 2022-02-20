@@ -1,0 +1,3 @@
+$ echo "#weird-brain-recipes" >> README.md => for creating README.md file in the specified directory
+
+
